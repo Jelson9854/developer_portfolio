@@ -1,3 +1,4 @@
+
 import Link from "next/link";
 import React from "react";
 import Logo from "./Logo";
@@ -54,14 +55,14 @@ const NavBar = () => {
           <LinkedInIcon />
         </motion.a>
 
-        <motion.a href="https://rintrest.com" target={"_blank"}
+        <motion.a href="https://pintrest.com" target={"_blank"}
         whileHover={{y:-2}}
         whileTap={{scale:0.9}}
         className="w-6 mx-3">
           <PinterestIcon />
         </motion.a>
 
-        <motion.a href="https://dribble.com" target={"_blank"}
+        <motion.a href="https://dribbble.com" target={"_blank"}
         whileHover={{y:-2}}
         whileTap={{scale:0.9}}
         className="w-6 ml-3">

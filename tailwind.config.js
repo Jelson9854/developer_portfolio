@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        corm: ['var(--font-corm)']
+        cormo: ['var(--font-cormo)']
       },
       colors: {
         dark: "#1b1b1b",

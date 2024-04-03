@@ -7,6 +7,17 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontWeight: {
+        'extra-light': 200,
+        'light': 300,
+        'normal': 400,
+        'medium': 500,
+        'semi-bold': 600,
+        'bold': 700,
+        'extra-bold': 800,
+        'black': 900,
+        'semi': 550
+      },
       fontFamily: {
         cormo: ['var(--font-cormo)']
       },
@@ -18,6 +29,9 @@ module.exports = {
     },
     animation: {
       'spin-slow': 'spin 8s linear infinite',
+    },
+    backgroundImage: {
+      circularLight: 'repeating-radial-gradient(rgba(0,0,0,0.4) 2px, #f5f5f5f5 5px, #f5f5f5f5 100px);'
     }    
     },
   },

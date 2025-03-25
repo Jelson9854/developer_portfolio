@@ -1,6 +1,6 @@
 import NavBar from '@/component/NavBar';
 import '@/styles/globals.css'
-import {Cormorant_Garamond} from 'next/font/google'
+import { Cormorant_Garamond } from 'next/font/google'
 import Head from 'next/head';
 import Footer from '@/component/Footer'
 

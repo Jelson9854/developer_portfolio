@@ -22,7 +22,7 @@ const about = () => {
           <p className='font-medium'>
             I am 4th year Ph.D. student in <Link href={'echolab.cs.vt.edu'} target='_blank' className='text-blue-700 underline'>Echolab</Link> and advised by Sang Won Lee.
             My current research project is looking into the effects of LLM systems (mainly ChatGPT) on collegiate writing. We are in the process of publishing our first paper 
-            studying how students use AI to write essays. A follow up process is being planned where we will look at the essays from the instuctor&apos;s perspective. Using this we 
+            studying how students use AI to write essays. A follow up project is being planned where we will look at the essays from the instuctor&apos;s perspective. Using this we 
             hope to understand how AI can be used by students and how instructors feel about the AI usage. Additonally we hope to learn good practices for using AI in the classroom.
           </p>
           <p className='font-medium my-4'>
